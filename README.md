@@ -2,4 +2,4 @@
 
 ![Gabriel Picanço GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielPicanco&show_icons=true&theme=radical)
 
-<img align="center" alt="Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white
