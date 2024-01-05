@@ -1,1 +1,1 @@
-<img width=100% src="https://capsule-render.app/api?type=waving&color=00008Bheight=120&section=reader"/>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielPicanco&show_icons=true&theme=shadow_red)
